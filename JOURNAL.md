@@ -4,11 +4,14 @@
 * Input by the Mr. Hassenstein on what is to be reached, what is to be delivered etc.
 * Next Meeting: 31.03.2020
 * End of "Project": 12.06.2020
-* ToDo until next Meeting:
+* ToDo:
   * Research & information gathering
   * Plan
   * Decision on using English or German and Word or LaTeX.
   * Create Git-repo or the like
+  * Layout of documentation
 ## 29.02.2020
 * Decisions: Word and German (for now)
-* Search the web helpful links
+* Search the web for helpful links
+* Created initial big list of links to articles, papers and videos
+* First overview of "what's out there"

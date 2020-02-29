@@ -1,0 +1,38 @@
+Schneier:
+https://www.schneier.com/essays/archives/2020/01/china_isnt_the_only_.html
+https://www.schneier.com/essays/archives/2019/09/every_part_of_the_su.html
+https://www.arnnet.com.au/article/671251/5g-security-mess-could-digital-certificates-help/
+
+DDos:
+https://www.scmagazineuk.com/security-concerns-5g-era-networks-ready-massive-ddos-attacks/article/1584554
+
+es gibt NSA mode (non stand alone) und SA mode(stand alone)
+Release 15 published 12/2017, First real standard was 3GPP 5G Standalone 15 (Mitte 2018) 
+5G security specifications 03/2018
+Release 16 being developed now (June 2020 done)
+
+Roger Piqueras Jover: Senior Security Architect and Security Researcher:
+http://rogerpiquerasjover.net/5G_ShmooCon_FINAL.pdf (complex and big slides)
+https://arxiv.org/pdf/1904.08394.pdf (paper: The current state of affairs in 5G security and the main remaining security challenges.)
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8641117 (paper: Security and Protocol Exploit Analysis of the 5G Specifications
+https://www.linkedin.com/pulse/reflection-history-cellular-security-research-outlook-piqueras-jover/
+https://www.linkedin.com/pulse/we-yet-long-path-securing-5g-mobile-communication-piqueras-jover/
+https://sg.channelasia.tech/article/671251/5g-security-mess-could-digital-certificates-help/
+
+5GReasoner:
+(paper) https://www.researchgate.net/publication/337090598_5GReasoner_A_Property-Directed_Security_and_Privacy_Analysis_Framework_for_5G_Cellular_Network_Protocol
+GSMA anerkannt aber “judged as nil or low-impact in practice.” Sagte auch nicht ob sie gefixt werden
+Although the researchers were recognized by GSMA’s mobile security “hall of fame,” spokesperson Claire Cranton said the vulnerabilities were “judged as nil or low-impact in practice.” The GSMA did not say if the vulnerabilities would be fixed — or give a timeline for any fixes. But the spokesperson said the researchers’ findings “may lead to clarifications” to the standard where it’s written ambiguously.
+
+General Flaw Stuff:
+https://techcrunch.com/2019/02/24/new-4g-5g-security-flaws/ (TORPEDO attack)
+https://www.ericsson.com/en/security/a-guide-to-5g-network-security (ericsson langer artikel mit versch. 5g themen)
+https://threatpost.com/torpedo-privacy-4g-5g/142174/ (ToRPEDO, IMSI-Crack, PIERCER)
+https://i.blackhat.com/USA-19/Wednesday/us-19-Shaik-New-Vulnerabilities-In-5G-Networks-wp.pdf / https://www.youtube.com/watch?v=YpH3Zx-X5bM
+https://www.youtube.com/watch?v=DeTASrRYalE
+https://www.youtube.com/watch?v=EVjo-UPVYhM
+https://www.youtube.com/watch?v=Wr5LYW4Lcuo
+https://www.youtube.com/watch?v=rIdxd3Eljws (48:48 5greasoner)
+
+
+
