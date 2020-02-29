@@ -15,3 +15,7 @@
 * Search the web for helpful links
 * Created initial big list of links to articles, papers and videos
 * First overview of "what's out there"
+* Next Steps:
+  * Check all Links, get a better overview
+  * Start a list with all vulnerabilities
+  * Maybe look for a template
