@@ -1,0 +1,18 @@
+Same researchers as 5GReasoner, 4G and 5G:
+- ToRPEDO
+  -> location (coarse)
+  -> inject fabricated paging messages
+  -> DoS attacks (on who?)
+- PIERCER
+  -> associate victims phone nbr with it's IMSI (-> targeted user tracking)
+- IMSI-Cracking (uses torpedo as sub step)
+  -> get IMSI of victim
+
+5GReasoner:
+- 11 new and 5 old from 4g
+
+Altaf Shaik:
+- MNMap
+- Bidding down
+- Battery Drain
+--> These got fixed by the 3GPP in Release 14

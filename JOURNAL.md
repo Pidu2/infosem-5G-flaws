@@ -19,3 +19,6 @@
   * Check all Links, get a better overview
   * Start a list with all vulnerabilities
   * Maybe look for a template
+## 02.03.2020
+* More information gathering
+* Started list with vulnerabilities

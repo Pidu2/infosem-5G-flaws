@@ -7,9 +7,9 @@ DDos:
 https://www.scmagazineuk.com/security-concerns-5g-era-networks-ready-massive-ddos-attacks/article/1584554
 
 es gibt NSA mode (non stand alone) und SA mode(stand alone)
-Release 15 published 12/2017, First real standard was 3GPP 5G Standalone 15 (Mitte 2018) 
 5G security specifications 03/2018
 Release 16 being developed now (June 2020 done)
+Release 15 seems to be the one which is currently being deployed. Early was NSA, then main release with SA. currently almost only NSA worldwide
 
 Roger Piqueras Jover: Senior Security Architect and Security Researcher:
 http://rogerpiquerasjover.net/5G_ShmooCon_FINAL.pdf (complex and big slides)
@@ -23,8 +23,10 @@ https://sg.channelasia.tech/article/671251/5g-security-mess-could-digital-certif
 (paper) https://www.researchgate.net/publication/337090598_5GReasoner_A_Property-Directed_Security_and_Privacy_Analysis_Framework_for_5G_Cellular_Network_Protocol
 GSMA anerkannt aber “judged as nil or low-impact in practice.” Sagte auch nicht ob sie gefixt werden
 Although the researchers were recognized by GSMA’s mobile security “hall of fame,” spokesperson Claire Cranton said the vulnerabilities were “judged as nil or low-impact in practice.” The GSMA did not say if the vulnerabilities would be fixed — or give a timeline for any fixes. But the spokesperson said the researchers’ findings “may lead to clarifications” to the standard where it’s written ambiguously.
+dude of 5greasoner: https://relentless-warrior.github.io/index.php/research/
 
 General Flaw Stuff:
+"a formal Analysis of 5G Authentication" anschauen...
 https://techcrunch.com/2019/02/24/new-4g-5g-security-flaws/ (TORPEDO attack)
 https://www.ericsson.com/en/security/a-guide-to-5g-network-security (ericsson langer artikel mit versch. 5g themen)
 https://threatpost.com/torpedo-privacy-4g-5g/142174/ (ToRPEDO, IMSI-Crack, PIERCER)
@@ -33,6 +35,4 @@ https://www.youtube.com/watch?v=DeTASrRYalE
 https://www.youtube.com/watch?v=EVjo-UPVYhM
 https://www.youtube.com/watch?v=Wr5LYW4Lcuo
 https://www.youtube.com/watch?v=rIdxd3Eljws (48:48 5greasoner)
-
-
-
+https://positive-tech.com/research/5g-security-issues/
