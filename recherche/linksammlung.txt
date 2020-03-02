@@ -30,9 +30,6 @@ General Flaw Stuff:
 https://techcrunch.com/2019/02/24/new-4g-5g-security-flaws/ (TORPEDO attack)
 https://www.ericsson.com/en/security/a-guide-to-5g-network-security (ericsson langer artikel mit versch. 5g themen)
 https://threatpost.com/torpedo-privacy-4g-5g/142174/ (ToRPEDO, IMSI-Crack, PIERCER)
-https://i.blackhat.com/USA-19/Wednesday/us-19-Shaik-New-Vulnerabilities-In-5G-Networks-wp.pdf / https://www.youtube.com/watch?v=YpH3Zx-X5bM
-https://www.youtube.com/watch?v=DeTASrRYalE
+https://i.blackhat.com/USA-19/Wednesday/us-19-Shaik-New-Vulnerabilities-In-5G-Networks-wp.pdf (-> fixed in release 15)
 https://www.youtube.com/watch?v=EVjo-UPVYhM
-https://www.youtube.com/watch?v=Wr5LYW4Lcuo
-https://www.youtube.com/watch?v=rIdxd3Eljws (48:48 5greasoner)
 https://positive-tech.com/research/5g-security-issues/
