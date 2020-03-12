@@ -24,6 +24,7 @@ https://sg.channelasia.tech/article/671251/5g-security-mess-could-digital-certif
 GSMA anerkannt aber “judged as nil or low-impact in practice.” Sagte auch nicht ob sie gefixt werden
 Although the researchers were recognized by GSMA’s mobile security “hall of fame,” spokesperson Claire Cranton said the vulnerabilities were “judged as nil or low-impact in practice.” The GSMA did not say if the vulnerabilities would be fixed — or give a timeline for any fixes. But the spokesperson said the researchers’ findings “may lead to clarifications” to the standard where it’s written ambiguously.
 dude of 5greasoner: https://relentless-warrior.github.io/index.php/research/
+https://www.wired.com/story/5g-vulnerabilities-downgrade-attacks/
 
 General Flaw Stuff:
 "a formal Analysis of 5G Authentication" anschauen...
