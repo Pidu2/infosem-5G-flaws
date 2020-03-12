@@ -34,3 +34,6 @@ https://threatpost.com/torpedo-privacy-4g-5g/142174/ (ToRPEDO, IMSI-Crack, PIERC
 https://i.blackhat.com/USA-19/Wednesday/us-19-Shaik-New-Vulnerabilities-In-5G-Networks-wp.pdf (-> fixed in release 15)
 https://www.youtube.com/watch?v=EVjo-UPVYhM
 https://positive-tech.com/research/5g-security-issues/
+
+Books:
+"A Comprehensive Guide to 5G Security"
