@@ -38,6 +38,5 @@ https://www.researchgate.net/publication/319527681_Overview_of_5G_security_in_3G
 https://www.researchgate.net/publication/322753634_Overview_of_5G_Security_Challenges_and_Solutions
 https://www.researchgate.net/publication/318223878_5G_Security_Analysis_of_Threats_and_Solutions
 
-
 Books:
 "A Comprehensive Guide to 5G Security"
