@@ -22,3 +22,4 @@ https://arxiv.org/pdf/1806.10360.pdf -> "a formal Analysis of 5G Authentication"
 https://www.ericsson.com/en/security/a-guide-to-5g-network-security -> ericsson langer artikel mit versch. 5g themen. eher als zusätzliche informationsquelle zu verwenden wenn überhaupt
 https://threatpost.com/torpedo-privacy-4g-5g/142174/ -> ToRPEDO, IMSI-Crack, PIERCER artikel, mitteltechnisch
 https://positive-tech.com/research/5g-security-issues/ -> Security parts not so relevant, but maybe as additional information on 5g
+https://www.cablelabs.com/insights/a-comparative-introduction-to-4g-and-5g-authentication -> additional info on authentication protocl in comparison to 4g
