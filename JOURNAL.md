@@ -28,3 +28,6 @@
 * Created plan
 * Categorize/"Describe" links
 * Remove links that are either redundant or not helpful
+* Started list of dependencies
+* Started list of acronyms
+* Started reading the actual 5GReasoner paper
