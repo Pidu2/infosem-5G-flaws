@@ -10,7 +10,7 @@ Same researchers as 5GReasoner, 4G and 5G:
 
 5GReasoner:
 - 11 new and 5 old from 4g
-
+_____________________________________________
 Altaf Shaik:
 - MNMap
 - Bidding down
