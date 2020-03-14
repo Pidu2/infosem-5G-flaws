@@ -1,0 +1,35 @@
+Abkürzungen:
+- NAS: Non-Access Stratum
+- AS: Access Stratum
+- RRC: Radio Resource Control
+- UE: User Equipment (ex 5greasoner)
+- TMSI: Temporary Mobile Subscriber Identity
+- IMSI: International Mobile Subscriber Identity
+- SUPI: Subscription Permanent Identifier
+- 5G NR: 5G New Radio
+- RAN: Radio Access Network (5greasoner: can be seen as the network between a UE and a gNB and also between communicating gNBs)
+- CN: Core Network
+- USIM: Universal Subscriber Identity Module (ex 5greasoner)
+- gNB: gNodeB (5G base-station)
+- AMF: Access and Mobility Management Function  (5greasoner: manages registration, detach procedures, paging and services related to registration, connection, and mobility)
+- AUSF: Authentication Server Function (5greasoner: authentication and key agreement for registration procedure, stores the UE’s identities, keys and subscription data and UDM)
+- UDM: Unified Data Management (5greasoner: responsible for generating Authentication and Key Agreement (AKA) credentials)
+
+5GReasoner:
+- control plane / user plane
+- nas layer
+- as layer
+- rrc layer
+
+5G Fragestellung:
+"Is it possible to formally verify six
+5G NAS layer procedures— initial registration, deregistration, paging,
+configuration update, handover, and service request procedures and
+the corresponding five RRC layer procedures— spanning across two
+control-plane layers against relevant security and privacy properties?"
+-> 6 NAS layer procedures correspond to 5 RRC layer procedures which again span over 2 control-plane layers (so control plane does exist out of multiple layers..?)
+
+General Stuff:
+Still LTE: https://tnsi.com/blogpost/lte-has-gas-in-the-tank/
+SA/NSA: https://tnsi.com/blogpost/5g-non-standalone-vs-5g-standalone/
+Releases, NR etc.

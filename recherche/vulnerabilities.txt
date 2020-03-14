@@ -10,6 +10,11 @@ Same researchers as 5GReasoner, 4G and 5G:
 
 5GReasoner:
 - 11 new and 5 old from 4g
+
+Honorable Mentions:
+- DDoS on a new scale
+- SDN (slicing etc is all virtual)
+- Reliance on few suppliers
 _____________________________________________
 Altaf Shaik:
 - MNMap

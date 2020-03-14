@@ -7,6 +7,7 @@ My Repository for the analysis of the current 5G Design Flaws
 | 1 | Research | In Progress | |
 | 1.1 | Research - Links | In Progress | Check link by link if valuable or not |
 | 2 | Vulnerability list | In Progress | Intertwined with 1 |
+| 2.1 | Vulnerability list - Dependencies | In Progress | Check the needed dependencies to understand the vulnerabilities. Then try to understand them and also write them down to be included into the introduction section |
 | 3 | Writing introduction | Todo | Introduce all concepts needed to present vulnerabilities |
 | 4 | Writing main part / vulnerabilities | Todo | |
 | 5 | Write conclusion / Mgmt Summary | Todo | |
