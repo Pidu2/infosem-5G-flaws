@@ -22,3 +22,5 @@
 ## 02.03.2020
 * More information gathering
 * Started list with vulnerabilities
+## 12.03.2020
+* Even more links!
