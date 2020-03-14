@@ -24,3 +24,7 @@
 * Started list with vulnerabilities
 ## 12.03.2020
 * Even more links!
+## 14.03.2020
+* Created plan
+* Categorize/"Describe" links
+* Remove links that are either redundant or not helpful

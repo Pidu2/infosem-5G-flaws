@@ -5,6 +5,7 @@ My Repository for the analysis of the current 5G Design Flaws
 | SeqNo | What | State | Remarks |
 |--|--|--|--|
 | 1 | Research | In Progress | |
+| 1.1 | Research - Links | In Progress | Check link by link if valuable or not |
 | 2 | Vulnerability list | In Progress | Intertwined with 1 |
 | 3 | Writing introduction | Todo | Introduce all concepts needed to present vulnerabilities |
 | 4 | Writing main part / vulnerabilities | Todo | |

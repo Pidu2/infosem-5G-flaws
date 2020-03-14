@@ -1,42 +1,24 @@
 Schneier:
-https://www.schneier.com/essays/archives/2020/01/china_isnt_the_only_.html
-https://www.schneier.com/essays/archives/2019/09/every_part_of_the_su.html
-https://www.arnnet.com.au/article/671251/5g-security-mess-could-digital-certificates-help/
-
-DDos:
-https://www.scmagazineuk.com/security-concerns-5g-era-networks-ready-massive-ddos-attacks/article/1584554
-
-es gibt NSA mode (non stand alone) und SA mode(stand alone)
-5G security specifications 03/2018
-Release 16 being developed now (June 2020 done)
-Release 15 seems to be the one which is currently being deployed. Early was NSA, then main release with SA. currently almost only NSA worldwide
+https://www.schneier.com/essays/archives/2020/01/china_isnt_the_only_.html -> Comment on 5G Security, no technical details
+https://www.schneier.com/essays/archives/2019/09/every_part_of_the_su.html -> Same, lots of links...
+https://www.arnnet.com.au/article/671251/5g-security-mess-could-digital-certificates-help/ -> Jover proposes certificates, Schneier says that's not enough and only one out of a lot more problem
 
 Roger Piqueras Jover: Senior Security Architect and Security Researcher:
-http://rogerpiquerasjover.net/5G_ShmooCon_FINAL.pdf (complex and big slides)
-https://arxiv.org/pdf/1904.08394.pdf (paper: The current state of affairs in 5G security and the main remaining security challenges.)
-https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8641117 (paper: Security and Protocol Exploit Analysis of the 5G Specifications
-https://www.linkedin.com/pulse/reflection-history-cellular-security-research-outlook-piqueras-jover/
-https://www.linkedin.com/pulse/we-yet-long-path-securing-5g-mobile-communication-piqueras-jover/
-https://sg.channelasia.tech/article/671251/5g-security-mess-could-digital-certificates-help/
+http://rogerpiquerasjover.net/5G_ShmooCon_FINAL.pdf -> very complex slides, his solution: digital certs / PKI... links to "Insecure connection bootstrapping in cellular networks: the root of all evil."
+https://arxiv.org/pdf/1904.08394.pdf -> "The current state of affairs in 5G security and the main remaining security challenges." -> 04.19 "was muss noch getan werden für security" release 15
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8641117 -> "Security and Protocol Exploit Analysis of the 5G Specifications" -> Analysiert die Security Spec von March18 in bezug auf bisherige und neue exploits, 02.19
+https://www.linkedin.com/pulse/reflection-history-cellular-security-research-outlook-piqueras-jover/ -> Gedanken von Jover über die Security Specs etc... 06.19
 
-5GReasoner:
-(paper) https://www.researchgate.net/publication/337090598_5GReasoner_A_Property-Directed_Security_and_Privacy_Analysis_Framework_for_5G_Cellular_Network_Protocol
-GSMA anerkannt aber “judged as nil or low-impact in practice.” Sagte auch nicht ob sie gefixt werden
-Although the researchers were recognized by GSMA’s mobile security “hall of fame,” spokesperson Claire Cranton said the vulnerabilities were “judged as nil or low-impact in practice.” The GSMA did not say if the vulnerabilities would be fixed — or give a timeline for any fixes. But the spokesperson said the researchers’ findings “may lead to clarifications” to the standard where it’s written ambiguously.
-dude of 5greasoner: https://relentless-warrior.github.io/index.php/research/
-https://www.wired.com/story/5g-vulnerabilities-downgrade-attacks/
+5GReasoner: (vorgestellt 11.19, entwickelt in 19)
+https://relentless-warrior.github.io/wp-content/uploads/2019/10/5GReasoner.pdf -> 5GReasoner Paper
+https://techcrunch.com/2019/11/12/5g-flaws-locations-spoof-alerts/ -> Artikel über 5GReasoner
+
+Dude of 5GReasoner:
+https://relentless-warrior.github.io/wp-content/uploads/2019/02/paging-side-channel-ndss19.pdf -> paper on ToRPEDO, IMSI-Crack, PIERCER
+https://relentless-warrior.github.io/wp-content/uploads/2019/05/wisec19-preprint.pdf -> "Insecure connection bootstrapping in cellular networks: the root of all evil."
 
 General Flaw Stuff:
-"a formal Analysis of 5G Authentication" anschauen...
-https://techcrunch.com/2019/02/24/new-4g-5g-security-flaws/ (TORPEDO attack)
-https://www.ericsson.com/en/security/a-guide-to-5g-network-security (ericsson langer artikel mit versch. 5g themen)
-https://threatpost.com/torpedo-privacy-4g-5g/142174/ (ToRPEDO, IMSI-Crack, PIERCER)
-https://i.blackhat.com/USA-19/Wednesday/us-19-Shaik-New-Vulnerabilities-In-5G-Networks-wp.pdf (-> fixed in release 15)
-https://www.youtube.com/watch?v=EVjo-UPVYhM
-https://positive-tech.com/research/5g-security-issues/
-https://www.researchgate.net/publication/319527681_Overview_of_5G_security_in_3GPP
-https://www.researchgate.net/publication/322753634_Overview_of_5G_Security_Challenges_and_Solutions
-https://www.researchgate.net/publication/318223878_5G_Security_Analysis_of_Threats_and_Solutions
-
-Books:
-"A Comprehensive Guide to 5G Security"
+https://arxiv.org/pdf/1806.10360.pdf -> "a formal Analysis of 5G Authentication". komplizierte technische abhandlung der authentication
+https://www.ericsson.com/en/security/a-guide-to-5g-network-security -> ericsson langer artikel mit versch. 5g themen. eher als zusätzliche informationsquelle zu verwenden wenn überhaupt
+https://threatpost.com/torpedo-privacy-4g-5g/142174/ -> ToRPEDO, IMSI-Crack, PIERCER artikel, mitteltechnisch
+https://positive-tech.com/research/5g-security-issues/ -> Security parts not so relevant, but maybe as additional information on 5g
