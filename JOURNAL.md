@@ -39,3 +39,4 @@
 ## 22.03.2020
 * More work on vulnerabilities
 * Next steps: Get ALL vulnerabilities from papers/links and write them down
+* Also very important now: NSA/SA -> How will I cover 4G Vulnerabilities...
