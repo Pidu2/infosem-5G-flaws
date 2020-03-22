@@ -15,7 +15,7 @@
 
 ### Dude of 5GReasoner:
 * **https://relentless-warrior.github.io/wp-content/uploads/2019/02/paging-side-channel-ndss19.pdf -> paper on ToRPEDO, IMSI-Crack, PIERCER**
-* https://relentless-warrior.github.io/wp-content/uploads/2019/05/wisec19-preprint.pdf -> "Insecure connection bootstrapping in cellular networks: the root of all evil."
+* https://relentless-warrior.github.io/wp-content/uploads/2019/05/wisec19-preprint.pdf -> "Insecure connection bootstrapping in cellular networks: the root of all evil." -> No real vulnerabilities. This is just the basis of why it's even possible to set up fake base stations. In this paper they propose a PKI for the authentication.
 
 ### General Flaw Stuff:
 * **https://arxiv.org/pdf/1806.10360.pdf -> "a formal Analysis of 5G Authentication". komplizierte technische abhandlung der authentication. 5GReasoner erwähnt das mit "however, focus only on a small part of the protocol, i.e., authentication and key agreement (AKA) protocol of the initial registration procedure. Also, the analyses are performed in isolation without considering their interaction with other procedures."**
