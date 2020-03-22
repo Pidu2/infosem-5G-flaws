@@ -31,3 +31,11 @@
 * Started list of dependencies
 * Started list of acronyms
 * Started reading the actual 5GReasoner paper
+## 16.03.2020
+* Started writing down the actual vulnerabilities. Not yet in detail, just to get an initial overview
+* Still reading 5GReasoner
+## 19.03.2020
+* More work on vulnerabilities
+## 22.03.2020
+* More work on vulnerabilities
+* Next steps: Get ALL vulnerabilities from papers/links and write them down

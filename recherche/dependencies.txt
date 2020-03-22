@@ -14,12 +14,15 @@ Abkürzungen:
 - AMF: Access and Mobility Management Function  (5greasoner: manages registration, detach procedures, paging and services related to registration, connection, and mobility)
 - AUSF: Authentication Server Function (5greasoner: authentication and key agreement for registration procedure, stores the UE’s identities, keys and subscription data and UDM)
 - UDM: Unified Data Management (5greasoner: responsible for generating Authentication and Key Agreement (AKA) credentials)
+- RNTI: Radio Network Temporary Identifier
+- C-RNTI: It stands for Cell RNTI. It is a unique identification used for identifying RRC Connection and scheduling which is dedicated to a particular UE. The gNB assigns different C-RNTI values to different UEs. The gNB uses C-RNTI to allocate a UE with uplink grants, downlink assignments, etc. C-RNTI is used by gNB to differentiate uplink transmissions (e.g. PUSCH, PUCCH) of a UE from others.
 
 5GReasoner:
 - control plane / user plane
 - nas layer
 - as layer
 - rrc layer
+3.4 erklärt das Modell mit welchem Angriffe gefunden werden recht gut
 
 5G Fragestellung:
 "Is it possible to formally verify six
@@ -28,8 +31,35 @@ configuration update, handover, and service request procedures and
 the corresponding five RRC layer procedures— spanning across two
 control-plane layers against relevant security and privacy properties?"
 -> 6 NAS layer procedures correspond to 5 RRC layer procedures which again span over 2 control-plane layers (so control plane does exist out of multiple layers..?)
+Tested properties:
+- Authenticity
+- Availability
+- Integrity
+- Secrecy (of user sensitive information like location)
+- Replay protection
 
 General Stuff:
 Still LTE: https://tnsi.com/blogpost/lte-has-gas-in-the-tank/
 SA/NSA: https://tnsi.com/blogpost/5g-non-standalone-vs-5g-standalone/
 Releases, NR etc.
+
+Control Plane / User Plane:
+- Control Plane carries signaling traffic (RRC, NAS)
+- User Plane carries User data (closer to user, less latency) (RDCP, RLC, MAC, PHY)
+
+NAS Layer Procedures:
+- Initial Registration (genauer beschrieben in paper)
+- Deregistration
+- Configuration Update
+- Service Request
+RRC Layer Procedures:
+- RRC Setup
+- RRC Security Activation
+- RRC Release
+- RRC Connection Reconfiguration
+- RRC Connection Resume
+- RRC Connection Re-establishment
+Paging Procedures:
+- RAN Initiated Paging
+- CN Initiated Paging
+

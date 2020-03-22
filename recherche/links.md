@@ -10,16 +10,19 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8641117 -> "Security an
 https://www.linkedin.com/pulse/reflection-history-cellular-security-research-outlook-piqueras-jover/ -> Gedanken von Jover über die Security Specs etc... 06.19
 
 5GReasoner: (vorgestellt 11.19, entwickelt in 19)
-https://relentless-warrior.github.io/wp-content/uploads/2019/10/5GReasoner.pdf -> 5GReasoner Paper
+**https://relentless-warrior.github.io/wp-content/uploads/2019/10/5GReasoner.pdf -> 5GReasoner Paper**
 https://techcrunch.com/2019/11/12/5g-flaws-locations-spoof-alerts/ -> Artikel über 5GReasoner
 
 Dude of 5GReasoner:
-https://relentless-warrior.github.io/wp-content/uploads/2019/02/paging-side-channel-ndss19.pdf -> paper on ToRPEDO, IMSI-Crack, PIERCER
+**https://relentless-warrior.github.io/wp-content/uploads/2019/02/paging-side-channel-ndss19.pdf -> paper on ToRPEDO, IMSI-Crack, PIERCER**
 https://relentless-warrior.github.io/wp-content/uploads/2019/05/wisec19-preprint.pdf -> "Insecure connection bootstrapping in cellular networks: the root of all evil."
 
 General Flaw Stuff:
-https://arxiv.org/pdf/1806.10360.pdf -> "a formal Analysis of 5G Authentication". komplizierte technische abhandlung der authentication. 5GReasoner erwähnt das mit "however, focus only on a small part of the protocol, i.e., authentication and key agreement (AKA) protocol of the initial registration procedure. Also, the analyses are performed in isolation without considering their interaction with other procedures."
+**https://arxiv.org/pdf/1806.10360.pdf -> "a formal Analysis of 5G Authentication". komplizierte technische abhandlung der authentication. 5GReasoner erwähnt das mit "however, focus only on a small part of the protocol, i.e., authentication and key agreement (AKA) protocol of the initial registration procedure. Also, the analyses are performed in isolation without considering their interaction with other procedures."**
 https://www.ericsson.com/en/security/a-guide-to-5g-network-security -> ericsson langer artikel mit versch. 5g themen. eher als zusätzliche informationsquelle zu verwenden wenn überhaupt
 https://threatpost.com/torpedo-privacy-4g-5g/142174/ -> ToRPEDO, IMSI-Crack, PIERCER artikel, mitteltechnisch
 https://positive-tech.com/research/5g-security-issues/ -> Security parts not so relevant, but maybe as additional information on 5g
 https://www.cablelabs.com/insights/a-comparative-introduction-to-4g-and-5g-authentication -> additional info on authentication protocl in comparison to 4g
+
+
+Articles, Information etc // **Actual Flaws**
