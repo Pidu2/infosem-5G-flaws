@@ -12,6 +12,7 @@
 ### 5GReasoner: (vorgestellt 11.19, entwickelt in 19)
 * **https://relentless-warrior.github.io/wp-content/uploads/2019/10/5GReasoner.pdf -> 5GReasoner Paper**
 * https://techcrunch.com/2019/11/12/5g-flaws-locations-spoof-alerts/ -> Artikel über 5GReasoner
+* Case "against" 5GReasoner by Richard Bennett: https://hightechforum.org/wired-trolls-5g-security/
 
 ### Dude of 5GReasoner:
 * **https://relentless-warrior.github.io/wp-content/uploads/2019/02/paging-side-channel-ndss19.pdf -> paper on ToRPEDO, IMSI-Crack, PIERCER**

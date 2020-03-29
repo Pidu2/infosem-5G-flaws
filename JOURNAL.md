@@ -40,3 +40,12 @@
 * More work on vulnerabilities
 * Next steps: Get ALL vulnerabilities from papers/links and write them down
 * Also very important now: NSA/SA -> How will I cover 4G Vulnerabilities...
+## 29.03.2020
+* More work on vulnerabilities, completed list of 5GReasoner
+* List for Meeting Tuesday:
+  * JOURNAL
+  * Plan (README)
+  * dependencies
+  * links
+  * vulnerabilities
+  * 5G / 4G
