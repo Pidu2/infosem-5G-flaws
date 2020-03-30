@@ -49,3 +49,4 @@
   * links
   * vulnerabilities
   * 5G / 4G
+  * Plan for draft
