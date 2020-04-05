@@ -52,7 +52,6 @@ Old (detected by prior work or inherited from 4G LTE):
   * location leakage
 
 Formal Analysis of 5G Authentication:
-https://www.youtube.com/watch?v=Ksi5uRZi70g (Beschränkung auf wenige)
 * Authentication Attack 1 (5.2.1): SN thinks it is talking to another UE, but is actually talking to the same. -> billing on other SUPIs account
 * Authentication Attack 2 (5.2.2): Attacker can impersonate SN to UE without key-confirmation -> Maybe attacks possible. see paper
 * Privacy / Tracing (5.2.3): passive is now better than old 4g 3g etc, but active not. replaying 5g aka auth session SN message to subscriber. from mac failure or synch failure attacker can distinguish between subscriber observed earlier or different subscriber, which can be used to track subscriber over time
