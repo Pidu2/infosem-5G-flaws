@@ -55,8 +55,11 @@
 * Input/decisions:
   * NSA "nicht behandeln", sondern auf SA fokusieren und NSA erwähnen
   * ggf. "beste" (impact, einfachheit der umsetzung) vulnerabilities hervorheben
-  * zeigen welche vulnerabilities neu und welche schon in 4G
-  * ggf. was wurde besser, was schlechter?
-  * Releasthematik: Werden vulnerabilities noch gefixt in neuen Releases?
+  * (zeigen welche vulnerabilities neu und welche schon in 4G)
+  * (ggf. was wurde besser, was schlechter?)
+  * Releasethematik: Werden vulnerabilities noch gefixt in neuen Releases?
   * Gibt es ein Mechanismus zur Prüfung der Basisstation schon jetzt in 5G?
   * Spätestens nach Ostern mit Bericht anfangen
+## 05.04.2020
+* Work on the "Formal Analysis of 5G Auth"-Vulnerabilities
+* Release information gathering

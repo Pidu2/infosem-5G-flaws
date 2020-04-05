@@ -25,5 +25,14 @@
 * https://positive-tech.com/research/5g-security-issues/ -> Security parts not so relevant, but maybe as additional information on 5g
 * https://www.cablelabs.com/insights/a-comparative-introduction-to-4g-and-5g-authentication -> additional info on authentication protocl in comparison to 4g
 
+### Release Information / LTE / SA / NSA
+* https://www.arcweb.com/blog/covid-19-prompts-brief-delay-important-industrial-5g-releases-16-17 -> release 16 delay
+* Still LTE: https://tnsi.com/blogpost/lte-has-gas-in-the-tank/
+* SA/NSA: https://tnsi.com/blogpost/5g-non-standalone-vs-5g-standalone/
+
+### Fake Base Station protection
+* https://www.cablelabs.com/false-base-station-or-imsi-catcher-what-you-need-to-know
+* https://www.ericsson.com/en/blog/2019/1/3gpp-release15
+
 
 Articles, Information etc // **Actual Flaws**

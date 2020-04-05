@@ -38,11 +38,6 @@ Tested properties:
 - Secrecy (of user sensitive information like location)
 - Replay protection
 
-General Stuff:
-Still LTE: https://tnsi.com/blogpost/lte-has-gas-in-the-tank/
-SA/NSA: https://tnsi.com/blogpost/5g-non-standalone-vs-5g-standalone/
-Releases, NR etc.
-
 Control Plane / User Plane:
 - Control Plane carries signaling traffic (RRC, NAS)
 - User Plane carries User data (closer to user, less latency) (RDCP, RLC, MAC, PHY)
@@ -62,4 +57,3 @@ RRC Layer Procedures:
 Paging Procedures:
 - RAN Initiated Paging
 - CN Initiated Paging
-
