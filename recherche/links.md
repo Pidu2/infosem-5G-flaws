@@ -19,7 +19,7 @@
 * https://relentless-warrior.github.io/wp-content/uploads/2019/05/wisec19-preprint.pdf -> "Insecure connection bootstrapping in cellular networks: the root of all evil." -> No real vulnerabilities. This is just the basis of why it's even possible to set up fake base stations. In this paper they propose a PKI for the authentication.
 
 ### General Flaw Stuff:
-* **https://arxiv.org/pdf/1806.10360.pdf -> "a formal Analysis of 5G Authentication". komplizierte technische abhandlung der authentication. 5GReasoner erwähnt das mit "however, focus only on a small part of the protocol, i.e., authentication and key agreement (AKA) protocol of the initial registration procedure. Also, the analyses are performed in isolation without considering their interaction with other procedures."**
+* **https://arxiv.org/pdf/1806.10360.pdf -> "a formal Analysis of 5G Authentication". komplizierte technische abhandlung der authentication. 5GReasoner erwähnt das mit "however, focus only on a small part of the protocol, i.e., authentication and key agreement (AKA) protocol of the initial registration procedure. Also, the analyses are performed in isolation without considering their interaction with other procedures." https://www.youtube.com/watch?v=Ksi5uRZi70g**
 * https://www.ericsson.com/en/security/a-guide-to-5g-network-security -> ericsson langer artikel mit versch. 5g themen. eher als zusätzliche informationsquelle zu verwenden wenn überhaupt
 * https://threatpost.com/torpedo-privacy-4g-5g/142174/ -> ToRPEDO, IMSI-Crack, PIERCER artikel, mitteltechnisch
 * https://positive-tech.com/research/5g-security-issues/ -> Security parts not so relevant, but maybe as additional information on 5g
