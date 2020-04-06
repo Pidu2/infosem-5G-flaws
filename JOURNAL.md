@@ -63,3 +63,7 @@
 ## 05.04.2020
 * Work on the "Formal Analysis of 5G Auth"-Vulnerabilities
 * Release information gathering
+* define document layout
+## 06.04.2020
+* Work on links and layout
+* Next step: Start working on the document

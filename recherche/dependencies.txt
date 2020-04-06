@@ -5,7 +5,8 @@ Abkürzungen:
 - UE: User Equipment (ex 5greasoner)
 - TMSI: Temporary Mobile Subscriber Identity
 - IMSI: International Mobile Subscriber Identity
-- SUPI: Subscription Permanent Identifier
+- SUPI: Subscription Permanent Identifier (called "5G IMSI" by jover)
+- SUCI: Subscriber Concealed Identifier (SUPI encrypted with operator's public key http://www.techplayon.com/5g-identifiers-supi-and-suci/)
 - 5G NR: 5G New Radio
 - RAN: Radio Access Network (5greasoner: can be seen as the network between a UE and a gNB and also between communicating gNBs)
 - CN: Core Network

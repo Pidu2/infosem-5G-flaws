@@ -4,15 +4,15 @@
 * https://www.arnnet.com.au/article/671251/5g-security-mess-could-digital-certificates-help/ -> Jover proposes certificates, Schneier says that's not enough and only one out of a lot more problem
 
 ### Roger Piqueras Jover: Senior Security Architect and Security Researcher:
-* http://rogerpiquerasjover.net/5G_ShmooCon_FINAL.pdf -> very complex slides, his solution: digital certs / PKI... links to "Insecure connection bootstrapping in cellular networks: the root of all evil."
-* https://arxiv.org/pdf/1904.08394.pdf -> "The current state of affairs in 5G security and the main remaining security challenges." -> 04.19 "was muss noch getan werden für security" release 15
-* https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8641117 -> "Security and Protocol Exploit Analysis of the 5G Specifications" -> Analysiert die Security Spec von March18 in bezug auf bisherige und neue exploits, 02.19
-* https://www.linkedin.com/pulse/reflection-history-cellular-security-research-outlook-piqueras-jover/ -> Gedanken von Jover über die Security Specs etc... 06.19
+* http://rogerpiquerasjover.net/5G_ShmooCon_FINAL.pdf -> slides, also containing some valuable information for understanding the vulnerabilities and general 5G stuff, his solution: digital certs / PKI... links to "Insecure connection bootstrapping in cellular networks: the root of all evil."
+* https://arxiv.org/pdf/1904.08394.pdf -> "The current state of affairs in 5G security and the main remaining security challenges." -> 04.19 talks about implicit trust in base stations (again, maybe useful for explaining that) and symmetric keys...
+* https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8641117 -> "Security and Protocol Exploit Analysis of the 5G Specifications" -> Analysiert die Security Spec von March18 in bezug auf bisherige und neue exploits. vlt nützlich zum vergleich mit 4G.. sonst meeh, 02.19
+* https://www.linkedin.com/pulse/reflection-history-cellular-security-research-outlook-piqueras-jover/ -> Gedanken von Jover über die Security Specs etc. Nützlich ggf. für einfache Erklärung der pre-auth messages (und deren problem) 06.19
 
 ### 5GReasoner: (vorgestellt 11.19, entwickelt in 19)
 * **https://relentless-warrior.github.io/wp-content/uploads/2019/10/5GReasoner.pdf -> 5GReasoner Paper**
 * https://techcrunch.com/2019/11/12/5g-flaws-locations-spoof-alerts/ -> Artikel über 5GReasoner
-* Case "against" 5GReasoner by Richard Bennett: https://hightechforum.org/wired-trolls-5g-security/
+* Case "against" 5GReasoner by Richard Bennett: https://hightechforum.org/wired-trolls-5g-security/ 
 
 ### Dude of 5GReasoner:
 * **https://relentless-warrior.github.io/wp-content/uploads/2019/02/paging-side-channel-ndss19.pdf -> paper on ToRPEDO, IMSI-Crack, PIERCER**
