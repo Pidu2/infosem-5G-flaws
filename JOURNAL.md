@@ -67,3 +67,11 @@
 ## 06.04.2020
 * Work on links and layout
 * Next step: Start working on the document
+## 09.04.2020
+* Started working on document
+## 11.04.2020
+* Continue work on document
+## 15.04.2020
+* Continue work on document
+## 16.04.2020
+* Continue work on document
