@@ -75,3 +75,18 @@
 * Continue work on document
 ## 16.04.2020
 * Continue work on document
+## 18.04.2020
+* Continue work on document
+## 22.04.2020
+* Sent first draft to Mr. Hassenstein
+## 28.04.2020
+* Got answer from Mr. Hassenstein
+## 02.05.2020
+* Improve document
+## 03.05.2020
+* Start presentation
+## 05.05.2020
+* Improving presentation
+## 09.05.2020
+* Testing duraton of presentation
+* improving formatting
